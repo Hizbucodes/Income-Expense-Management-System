@@ -1,3 +1,5 @@
+Income and Expense Management System Built using Java(Spring Boot) for Backend and ReactJS for Frontend and Chart.JS for chart visualization
+
 ![Screenshot (295)](https://github.com/user-attachments/assets/66b3086d-36ed-4174-9586-f3b0b04fee12)
 ![Screenshot (296)](https://github.com/user-attachments/assets/f16af9cb-9102-41c3-97c5-5e7116b215c2)
 ![Screenshot (297)](https://github.com/user-attachments/assets/ac0e4e9a-7fa6-46f3-9d6e-639059a9a59f)
